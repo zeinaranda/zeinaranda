@@ -14,6 +14,7 @@ Saya menjadi salah satu peserta lulusan terbaik di **SIB Dicoding X Kampus Merde
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://kotlinlang.org/assets/images/favicon.svg" alt="kotlin" width="40" height="40"/></a> 
 <a href="https://php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://postgresql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
 ## Sertifikat
