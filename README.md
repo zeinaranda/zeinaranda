@@ -41,7 +41,8 @@ Saya menjadi salah satu peserta lulusan terbaik di **SIB Dicoding X Kampus Merde
 1. [Comic Shop](github.com/zeinaranda/Comic-Shop)
 
 ### Back-End Project 
-1. [Bookshelf API](github.com/zeinaranda/Bookshelf-API)
+1. [Notes API](https://github.com/zeinaranda/Notes-API)
+2. [Bookshelf API](github.com/zeinaranda/Bookshelf-API)
 
 ### UX Design Project 
 1. [Aplikasi Toko Komik](bit.ly/45A1c35) || [Portofolio](bit.ly/3oCOboI)
