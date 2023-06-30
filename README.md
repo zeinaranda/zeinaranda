@@ -21,6 +21,7 @@ Saya menjadi salah satu peserta lulusan terbaik di **SIB Dicoding X Kampus Merde
 ## Sertifikat
 | Sertifikat | Nama Sertifikat | Tanggal Terbit | Tanggal Kedaluwarsa |
 | -- | -- | -- | -- |
+| <img height="150" src="https://i.postimg.cc/TYXWHZz0/Sertifikat-Zeina-page-0001.jpg" alt="Sertifikat Kompetensi Junior Mobile Programmer"> | Sertifikat Kompetensi Junior Mobile Programmer | 9 Juni 2023 | 9 Juni 2026 |
 | <img height="150" src="https://i.postimg.cc/fyyyD4pL/Memulai-Pemrograman-dengan-Kotlin.png" alt="Sertifikat Memulai Pemrograman dengan Kotlin"> | Memulai Pemrograman dengan Kotlin | 24 Agustus 2022 | 24 Agustus 2025 |
 | <img height="150" src="https://i.postimg.cc/9MT9t2Pt/FUNDAMENTAL.png" alt="Sertifikat Android Fundamental"> | Belajar Fundamental Aplikasi Android | 13 Oktober 2022 | 13 Oktober 2025 |
 | <img height="150" src="https://i.postimg.cc/htLTdcrL/INTERMEDIATE.png" alt="Sertifikat Android Intermediate"> | Belajar Pengembangan Aplikasi Android Intermediate | 13 Oktober 2022 | 13 Oktober 2025 |
