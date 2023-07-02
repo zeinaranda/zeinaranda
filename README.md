@@ -34,7 +34,7 @@ Saya menjadi salah satu peserta lulusan terbaik di **SIB Dicoding X Kampus Merde
 ### Android Project 
 1. [CurhatIn](https://www.github.com/Capstone-Curhatin/Curhatin-Apps)
 2. [Github User App](https://www.github.com/zeinaranda/Github-User-App)
-3. [Story App](github.com/zeinaranda/Story-App)
+3. [Story App](https://www.github.com/zeinaranda/Story-App)
 4. [Aplikasi Absensi Universitas Palangka Raya](github.com/zeinaranda/TB-Wireless)
 5. [Simple KPU App](github.com/zeinaranda/KPU-App)
 
